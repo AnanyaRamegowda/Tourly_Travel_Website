@@ -1,4 +1,4 @@
-### Tourly_Travel_Website
+# Tourly_Travel_Website
 ## Introduction
 Tourly is your go-to platform for planning and booking unforgettable travel experiences. Whether you’re looking for a relaxing beach vacation, an adventurous hiking trip, or a cultural exploration, Tourly provides a seamless experience to help you create the perfect journey. Our website offers a wide range of curated travel packages, personalized itineraries, and essential resources to make your travel planning easy and enjoyable.With Tourly, we aim to bridge the gap between travelers and destinations, offering detailed guides, reviews, and booking options that cater to various interests and budgets.
 
@@ -8,7 +8,7 @@ Seamless Travel Planning – Simplify the process of planning and booking trips.
 ## Brief Description About The Project
 Tourly Travel is a dynamic travel platform designed to simplify the journey of planning, discovering, and booking personalized travel experiences. Whether you’re looking for an adventurous escape, a cultural exploration, or a relaxing getaway, Tourly provides tailored travel packages, detailed destination guides, and seamless booking options. The website features user-friendly navigation, curated itineraries, and travel resources that cater to various interests and budgets. Tourly’s mission is to empower travelers by offering the tools and information they need to create unforgettable trips. Additionally, the platform encourages responsible tourism by highlighting eco-friendly options and promoting sustainable travel practices. Tourly aims to simplify travel planning by integrating AI-powered suggestions, reviews, and budgeting tools, making it a one-stop solution for all travel needs.
 ```
-## Programming Languages
+Programming Languages
 HTML
 CSS
 Java
